@@ -39,16 +39,20 @@ body {
   box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.75);
 }
 
-.quotes-img {
+/* .quotes-img {
   z-index: 0;
   position: absolute;
   width: 8rem;
   align-self: flex-end;
   margin-right: 5%;
-}
+} */
 
 .t1 {
   background-color: hsl(263, 55%, 52%);
+  background-image: url(/images/bg-pattern-quotation.svg);
+  background-size: 110px;
+  background-position: top 5px right 30px;
+  background-repeat: no-repeat;
 }
 
 .t2 {
